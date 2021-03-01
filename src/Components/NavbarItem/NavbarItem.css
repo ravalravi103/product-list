@@ -1,0 +1,6 @@
+.navbar__item{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 30px;
+}

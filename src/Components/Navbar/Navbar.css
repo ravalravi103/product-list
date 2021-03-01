@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+   
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(223, 223, 223);
+    padding:10px
+}
+.nav-link{
+    text-decoration: none;
+    color:#000
+}
+

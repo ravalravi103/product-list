@@ -1,0 +1,12 @@
+.add-product-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100%
+   
+}
+.form-field{
+    margin: 30px;
+    width :400px
+}
